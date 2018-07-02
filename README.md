@@ -1,5 +1,5 @@
 # Integrating-Pose-and-Video
-Integrating Pose and Video Data for Immersive Mixed Reality
+### Integrating Pose and Video Data for Immersive Mixed Reality
 
 Research project supervised by Dr. Matthew Kyan as part of the Ryerson University’s Research Internship Program with minimal supervision of design and implementation.
 
@@ -9,8 +9,6 @@ Research project supervised by Dr. Matthew Kyan as part of the Ryerson Universit
 
 •	Captured of real-time encoded position data from C.A.V.E virtual reality system over Wi-Fi network.
 
-Application: VideoToFrames
-
-Test Device: Nexus 10 (2013)
-
-Android 4.4.4
+#### Application: VideoToFrames
+#### Test Device: Nexus 10 (2013)
+#### Android 4.4.4
